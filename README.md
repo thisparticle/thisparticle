@@ -7,7 +7,7 @@
 <!-- The one on the left is [thisparticle](https://github.com/thisparticle). -->
 
 - 🏫 I’m currently a master student in **<a href="https://www.sysu.edu.cn/">[SUN YAT-SEN UNIVERSITY](http://www.sysu.edu.cn/)</a>**, majoring in **Computer Science and Technology**.
-- 🌱 My research interests include **multi-sensor fusion**, **SLAM**, and **sensor calibration**. I am looking for a PhD position. If you think my work and research direction meet the needs of your Lab, please contact me.
+- 🌱 My research interests include **multi-sensor fusion**, **SLAM**, and **sensor calibration**.
 - 🎈 You can find my profile at [https://thisparticle.github.io](https://thisparticle.github.io).
 
 </summary>
