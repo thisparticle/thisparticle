@@ -7,7 +7,7 @@
 <!-- The one on the left is [thisparticle](https://github.com/thisparticle). -->
 
 - 🏫 I’m currently a Ph.D. student in **<a href="https://www.hku.hk/">[The University of Hong Kong (HKU)](https://www.hku.hk/)</a>**.
-- 🌱 My research interests include **Robust Localization and Mapping**, and **spatial awareness and reasoning**.
+- 🌱 My research interests include **robust Localization and Mapping**, and **spatial awareness and reasoning**.
 - 🎈 You can find my profile at [https://thisparticle.github.io](https://thisparticle.github.io).
 
 </summary>
