@@ -6,8 +6,8 @@
 
 <!-- The one on the left is [thisparticle](https://github.com/thisparticle). -->
 
-- 🏫 I’m currently a master student in **<a href="https://www.sysu.edu.cn/">[SUN YAT-SEN UNIVERSITY](http://www.sysu.edu.cn/)</a>**, majoring in **Computer Science and Technology**.
-- 🌱 My research interests include **multi-sensor fusion**, **SLAM**, and **sensor calibration**.
+- 🏫 I’m currently a Ph.D. student in **<a href="https://www.hku.hk/">[The University of Hong Kong (HKU)](https://www.hku.hk/)</a>**.
+- 🌱 My research interests include **Robust Localization and Mapping**, and **spatial awareness and reasoning**.
 - 🎈 You can find my profile at [https://thisparticle.github.io](https://thisparticle.github.io).
 
 </summary>
